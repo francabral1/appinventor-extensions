@@ -998,3 +998,33 @@
 997: bolete
 998: ear, spike, capitulum
 999: toilet tissue, toilet paper, bathroom tissue
+1001:manzana ,apple manzana
+1002:limon 
+1003: lima
+1004:naranja
+1005: palta, aguacate 
+1006:cebolla
+1007: banana, plátano ,banano
+1008: ananá, piña
+1009:melon
+1010: Sandía
+1011:damasco, albaricoque 
+1012: Durazno, melocotón
+1013: arándano
+1014: arándano rojo
+1015: cereza, guinda
+1016: granada
+1017: gorsella negra
+1018: higo
+1019:higo
+1020: kiwi
+1021: Mandarina, tamarindo
+1022: mango
+1023: maracuyá
+1024: membrillo
+1025: mora,  zarzamora
+1026: nectarina
+1027: papaya
+1028: pera
+1029: toronja, pomelo
+1030:  uva
